@@ -14,4 +14,5 @@
 - **Ernani Fantinatti**
 - **Fábio Rhein**
 - **Alberto Côrtes**
+- **Luiz Garcia**
 - **\<your name here\>**
